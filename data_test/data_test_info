@@ -1,0 +1,13 @@
+Data info
+
+All data refers to the period: 2020-01-01 to 2010-01-01
+Site located in the French Manson Forest (45°’45' 20’’ N, 2°’57'”58" E) dominated by Picea Abies
+
+File name	              Content
+ag_litter_file.txt	    Annual aboveground C input (Mg C ha-1 yr-1)
+bg_litter_file.txt	    Annual belowground C input (Mg C ha-1 yr-1)
+potevap_month_file.txt	Monthly potential evapotranspiration (mm month-1)
+precip_day_file.txt	    Daily precipitation (mm)
+temp_day_file.txt	      Daily surface temperatures (˚C)
+vswc_day_file.txt	      Daily volumetric soil water content (mm3 mm-3)
+spinup_data.csv	        Climate data for spin-up. That is, temperature, precipitation, potential evapotranspiration, and volumetric soil water content (same units as the other variables)
